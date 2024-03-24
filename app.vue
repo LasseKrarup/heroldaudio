@@ -12,6 +12,8 @@
   </div>
 </template>
 
-<style>
+<script setup>
+const colorMode = useColorMode()
 
-</style>
+onMounted(() => colorMode.preference = "system") 
+</script>

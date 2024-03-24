@@ -1,6 +1,6 @@
 <template>
   <!-- Contact Us -->
-  <div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto mt-16">
+  <section class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto mt-16 bg-white dark:bg-gray-900">
     <div class="max-w-xl mx-auto">
       <div class="text-center">
         <h1
@@ -140,6 +140,6 @@
       </div>
       <!-- End Card -->
     </div>
-  </div>
+  </section>
   <!-- End Contact Us -->
 </template>

@@ -1,7 +1,7 @@
 <template>
-  <footer class="w-full max-w-[85rem] py-10 px-4 sm:px-6 lg:px-8 mx-auto">
+  <footer class="bg-white dark:bg-gray-950">
     <!-- Grid -->
-    <div class="text-center">
+    <div class="text-center w-full max-w-[85rem] py-10 px-4 sm:px-6 lg:px-8 mx-auto">
       <div>
         <NuxtLink
           class="flex-none text-xl font-semibold text-black dark:text-white dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
