@@ -1,18 +1,18 @@
 /** @type {import('tailwindcss').Config} */
 
 export default {
-  content: [    
-  `components/**/*.{vue,js,ts}`,
-  `layouts/**/*.vue`,
-  `pages/**/*.vue`,
-  `composables/**/*.{js,ts}`,
-  `plugins/**/*.{js,ts}`,
-  `utils/**/*.{js,ts}`,
-  `App.{js,ts,vue}`,
-  `app.{js,ts,vue}`,
-  `Error.{js,ts,vue}`,
-  `error.{js,ts,vue}`,
-  `app.config.{js,ts}`],
+  content: [
+    `components/**/*.{vue,js,ts}`,
+    `layouts/**/*.vue`,
+    `pages/**/*.vue`,
+    `composables/**/*.{js,ts}`,
+    `plugins/**/*.{js,ts}`,
+    `utils/**/*.{js,ts}`,
+    `App.{js,ts,vue}`,
+    `app.{js,ts,vue}`,
+    `Error.{js,ts,vue}`,
+    `error.{js,ts,vue}`,
+    `app.config.{js,ts}`],
   theme: {
     extend: {
       colors: {
@@ -32,6 +32,47 @@ export default {
       }
     },
   },
-  plugins: [],
+  fontFamily: {
+    'body': [
+      'Inter',
+      'ui-sans-serif',
+      'system-ui',
+      '-apple-system',
+      'system-ui',
+      'Segoe UI',
+      'Roboto',
+      'Helvetica Neue',
+      'Arial',
+      'Noto Sans',
+      'sans-serif',
+      'Apple Color Emoji',
+      'Segoe UI Emoji',
+      'Segoe UI Symbol',
+      'Noto Color Emoji'
+    ],
+    'sans': [
+      'Inter',
+      'ui-sans-serif',
+      'system-ui',
+      '-apple-system',
+      'system-ui',
+      'Segoe UI',
+      'Roboto',
+      'Helvetica Neue',
+      'Arial',
+      'Noto Sans',
+      'sans-serif',
+      'Apple Color Emoji',
+      'Segoe UI Emoji',
+      'Segoe UI Symbol',
+      'Noto Color Emoji'
+    ]
+  },
+  plugins: [
+    require('preline/plugin'),
+    require('@tailwindcss/forms'),
+    require('@tailwindcss/typography'),
+    require('@tailwindcss/aspect-ratio'),
+  ],
 }
 
