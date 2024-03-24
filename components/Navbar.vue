@@ -1,6 +1,6 @@
 <template>
   <header
-    :class="'flex flex-wrap sm:justify-start sm:flex-nowrap z-50 w-full bg-white text-sm py-4 dark:bg-gray-800 ' + (isHome && 'bg-transparent')"
+    :class="'flex flex-wrap sm:justify-start sm:flex-nowrap z-50 w-full text-sm py-4 dark:bg-gray-800 ' + (isHome ? 'md:bg-transparent bg-gray-800' : 'bg-white')"
   >
     <nav
       class="max-w-[85rem] w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between"
@@ -16,7 +16,7 @@
         <div class="sm:hidden">
           <button
             type="button"
-            :class="'hs-collapse-toggle p-2 inline-flex justify-center items-center gap-x-2 rounded-lg border border-gray-200 text-gray-800 shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none dark:bg-transparent dark:border-gray-700 dark:text-white dark:hover:bg-white/10 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600 ' + (isHome ? 'bg-transparent' : 'bg-white')"
+            :class="'hs-collapse-toggle p-2 inline-flex justify-center items-center gap-x-2 rounded-lg border border-gray-200 text-gray-800 shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none dark:bg-transparent dark:border-gray-700 dark:text-white dark:hover:bg-white/10 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600 ' + homeStyle"
             data-hs-collapse="#navbar-collapse-with-animation"
             aria-controls="navbar-collapse-with-animation"
             aria-label="Toggle navigation"
@@ -96,6 +96,7 @@
 <script setup lang="ts">
   const theRoute = useRoute()
   const isHome = ref(theRoute.path == "/" ? true : false)
+  const homeStyle = isHome ? 'md:bg-transparent bg-white' : 'bg-white'
 
   watch(() => theRoute.path, () => {
     if (theRoute.path == "/") {
