@@ -3,7 +3,7 @@
     <div class="grow-0 absolute top-0 z-20 w-full">
       <Navbar></Navbar>
     </div>
-    <div class="grow">
+    <div class="grow flex flex-col">
         <NuxtPage />
     </div>
     <div class="grow-0">

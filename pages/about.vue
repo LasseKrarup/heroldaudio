@@ -1,6 +1,6 @@
 <template>
-<section class="bg-white dark:bg-gray-900 mt-16">
-    <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+<section class="bg-white dark:bg-gray-900 mt-16 h-full grow flex flex-col items-center">
+    <div class="gap-16 items-center py-8 px-4 m-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Af profesionelle musikere - både for profesionelle og hobbyister</h2>
             <p class="mb-4">Hos Herold Audio er det først og fremmest musik, der er kerneværdien. Virksomheden er stiftet af professionel musiker Lasse Herold Krarup, der er uddannet fra Det Jyske Musikkonservatorium og har en baggrund som elektronikingeniør. Det er altså ikke <em>bare</em> en tekniker, der servicerer dit grej - det er én, der ved præcis, hvor vigtigt det er, at dit udstyr er pålideligt, og hvad det bliver udsat for i tour-bussen.</p>

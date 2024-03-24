@@ -10,7 +10,7 @@
     <nav
       :class="
         'max-w-[85rem] w-full m-auto px-4 pb-4 sm:flex sm:items-center sm:justify-between ' +
-        (isHome ? 'bg-gray-800 md:bg-transparent' : 'bg-white') 
+        (isHome ? 'bg-gray-800 md:bg-transparent' : 'bg-white dark:bg-gray-800') 
       "
       aria-label="Global"
     >
