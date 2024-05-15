@@ -16,7 +16,7 @@
           <div class="bg-white pt-8 pb-5 px-8 dark:bg-slate-900">
             <h4 class="font-medium text-lg text-gray-800 dark:text-gray-200">Diagnostik</h4>
           </div>
-          <div class="h-full bg-white lg:mt-px lg:py-5 px-8 dark:bg-slate-900">
+          <div class="bg-white lg:mt-px lg:py-5 px-8 dark:bg-slate-900">
             <div class="grid grid-rows-2 font-bold text-5xl text-gray-800 dark:text-gray-200">
               <span class="font-bold text-2xl -me-2">DKK</span>
               <p>450</p>
@@ -42,7 +42,7 @@
           <div class="bg-white pt-8 pb-5 px-8 dark:bg-slate-900">
             <h4 class="font-medium text-lg text-gray-800 dark:text-gray-200">Service</h4>
           </div>
-          <div class="h-full bg-white lg:mt-px lg:py-5 px-8 dark:bg-slate-900">
+          <div class="bg-white lg:mt-px lg:py-5 px-8 dark:bg-slate-900">
             <div class="grid grid-rows-2 font-bold text-5xl text-gray-800 dark:text-gray-200">
               <span class="font-bold text-2xl -me-2">DKK</span>
               <p>450-700</p>
@@ -68,13 +68,13 @@
           <div class="bg-white pt-8 pb-5 px-8 dark:bg-slate-900">
             <h4 class="font-medium text-lg text-gray-800 dark:text-gray-200">Værkstedspris</h4>
           </div>
-          <div class="h-full bg-white lg:mt-px lg:py-5 px-8 dark:bg-slate-900">
+          <div class="bg-white lg:mt-px lg:py-5 px-8 dark:bg-slate-900">
             <div class="grid grid-rows-2 font-bold text-5xl text-gray-800 dark:text-gray-200">
               <span class="font-bold text-2xl -me-2">DKK</span>
               <p>450 <span class="text-sm font-light text-gray-500">/time</span></p>
             </div>
           </div>
-          <div class="bg-white flex justify-center lg:mt-px py-7 px-8 dark:bg-slate-900">
+          <div class="bg-white flex shrink-0 justify-center lg:mt-px py-7 px-8 dark:bg-slate-900">
             <ul class="space-y-2.5 text-center text-sm">
               <li class="text-gray-800 dark:text-gray-400">
                 Fast timepris for udført arbejde
@@ -91,7 +91,7 @@
           <div class="bg-white pt-8 pb-5 px-8 dark:bg-slate-900">
             <h4 class="font-medium text-lg text-gray-800 dark:text-gray-200">Guitar/bas</h4>
           </div>
-          <div class="h-full bg-white lg:mt-px lg:py-5 px-8 dark:bg-slate-900">
+          <div class="bg-white lg:mt-px lg:py-5 px-8 dark:bg-slate-900">
             <div class="grid grid-rows-2 font-bold text-5xl text-gray-800 dark:text-gray-200">
               <span class="font-bold text-2xl -me-2">DKK</span>
               <p>475 <span class="text-sm font-light text-gray-500">/time</span></p>
@@ -110,6 +110,7 @@
         </div>
         <!-- End Card -->
       </div>
+      <p class="mt-4 mb-8 text-sm text-gray-600 dark:text-gray-400 mx-auto text-center">Alle priser er inkl. moms</p>
     </div>
     <!-- End Grid -->
     <div class="text-center z-10 relative mt-8">
