@@ -5,7 +5,7 @@
     <!-- Title -->
     <div class="max-w-2xl mx-auto text-center mb-10 lg:mb-14 ">
       <h2 class="text-2xl font-bold md:text-4xl md:leading-tight dark:text-white">Prisoversigt</h2>
-      <p class="mt-1 text-gray-600 dark:text-gray-400">Det er ofte meget svært at prissætte arbejde på elektroniske apparater, især hvis der er tale om tilbagevendende problemer. Priserne herunder er derfor kun vejledende og uden reservedele. Vi vil altid prøve at nærme os en pris sammen med dig.</p>
+      <p class="mt-1 text-gray-600 dark:text-gray-400">Det er ofte meget svært at prissætte arbejde på elektroniske apparater, især hvis der er tale om tilbagevendende problemer. Priserne herunder er derfor kun vejledende og uden reservedele. Jeg vil altid prøve at nærme mig en pris sammen med dig.</p>
     </div>
     <!-- End Title -->
     <!-- Grid -->

@@ -17,7 +17,7 @@
       <!-- End Col -->
 
       <div class="mt-3">
-        <p class="text-gray-500">© {{ new Date().getFullYear() }}</p>
+        <p class="text-gray-500">© 2024-{{ new Date().getFullYear() }}</p>
       </div>
 
       <!-- Social Brands -->

@@ -3,8 +3,9 @@
     <div class="gap-16 items-center py-8 px-4 m-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Af profesionelle musikere - både for profesionelle og hobbyister</h2>
-            <p class="mb-4">Hos Herold Audio er det først og fremmest musik, der er kerneværdien. Virksomheden er stiftet af professionel musiker Lasse Herold Krarup, der er uddannet fra Det Jyske Musikkonservatorium og har en baggrund som elektronikingeniør. Det er altså ikke <em>bare</em> en tekniker, der servicerer dit grej - det er én, der ved præcis, hvor vigtigt det er, at dit udstyr er pålideligt, og hvad det bliver udsat for i tour-bussen.</p>
+            <p class="mb-4">Hos Herold Audio er det først og fremmest musik, der er kerneværdien. Virksomheden er stiftet af professionel musiker Lasse Herold Krarup, der er uddannet fra Det Jyske Musikkonservatorium. Det er altså ikke <em>bare</em> en tekniker, der servicerer dit grej - det er én, der ved præcis, hvor vigtigt det er, at dit udstyr er pålideligt, og hvad det bliver udsat for i tour-bussen.</p>
             <p class="mb-4">Udover at være professionel musiker, har jeg over 5 års erfaring som freelancer og konsulent inden for feltet, hvor jeg blandt andet har brugt mange timer i værkstedet hos min partner in crime Jacob Kraft fra <NuxtLink to="https://www.kraftguitars.dk" class="text-vista">Kraft Guitars</NuxtLink>.</p>
+            <p class="mb-4">Min tekniske faglighed stammer fra min uddannelse som elektronikingeniør, hvor jeg blandt andet har haft min ingeniørpraktik hos legendariske TC Electronic.</p>
             <p class="mb-4"></p>
         </div>
         <div class="grid grid-cols-2 gap-4 mt-8">

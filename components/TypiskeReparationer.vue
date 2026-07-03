@@ -8,11 +8,11 @@
           Typiske reparationer
         </h2>
         <p class="text-gray-500 sm:text-xl dark:text-gray-400 text-justify">
-          Der er mange reparationer, som vi ser igen og igen. Nogle bestemte
+          Der er mange reparationer, som jeg ser igen og igen. Nogle bestemte
           forstærkere har nogle medfødte problemer, som det er smart at komme
           til livs så hurtigt som muligt, og andre problemer er ganske enkelt
           bare udbredt på tværs af modeller. Her er et udpluk af nogle af de
-          reparationer, vi laver mest.
+          reparationer, jeg laver mest.
         </p>
       </div>
       <div
@@ -24,8 +24,8 @@
           </h3>
           <p class="text-gray-500 dark:text-gray-400">
             Hvis du har en rørforstærker, vil du opleve, at du er nødt til at få
-            udskiftet rør en gang imellem. Vi har lavet tonsvis af rørskift, og
-            vi sørger for at bias-indstille rørene i samråd med dig, så du får
+            udskiftet rør en gang imellem. Jeg har lavet tonsvis af rørskift, og
+            jeg sørger for at bias-indstille rørene i samråd med dig, så du får
             den tone, du gerne vil have.
           </p>
         </div>
@@ -36,7 +36,7 @@
           <p class="text-gray-500 dark:text-gray-400">
             Servicering af potentiometre, jack- og XLR inputs/outputs, kontakter
             og alle andre bevægelige dele er altid udsat på forstærkere og andet
-            elektronik. Vi servicerer de mekaniske dele såvidt muligt og
+            elektronik. Jeg servicerer de mekaniske dele såvidt muligt og
             rådgiver omkring udskiftning, hvis det er nødvendigt.
           </p>
         </div>
@@ -54,7 +54,7 @@
         <div>
           <h3 class="mb-2 text-xl font-bold dark:text-white">Foot switches</h3>
           <p class="text-gray-500 dark:text-gray-400">
-            Foot switches på effektpedaler er et klassisk sårbart punkt. Vi
+            Foot switches på effektpedaler er et klassisk sårbart punkt. Jeg
             udskifter foot switches eller kan modificere effektpedaler til true
             bypass.
           </p>
@@ -64,7 +64,7 @@
             Udskiftning af højttalerenheder
           </h3>
           <p class="text-gray-500 dark:text-gray-400">
-            Vi skifter enhederne på dine højttalere eller din forstærker, hvis
+            Jeg skifter enhederne på dine højttalere eller din forstærker, hvis
             membranen, fastmagneten eller elektromagneten er i stykker.
           </p>
         </div>
@@ -73,7 +73,7 @@
             Eliminering af støj
           </h3>
           <p class="text-gray-500 dark:text-gray-400">
-            Vi laver modifikationer og fejlfinding, hvis dine højttalere eller
+            Jeg laver modifikationer og fejlfinding, hvis dine højttalere eller
             din effektpedal støjer
           </p>
         </div>
@@ -90,7 +90,7 @@
             class="transition-shadow inline-flex justify-center items-center gap-x-3 text-center bg-gradient-to-tl from-blue-600 to-violet-600 shadow-lg shadow-transparent hover:shadow-blue-700/50 border border-transparent text-white text-sm font-medium rounded-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 focus:ring-offset-white py-3 px-6 dark:focus:ring-offset-gray-800"
             to="/kontakt"
           >
-            Kontakt os
+            Kontakt Herold Audio
             <svg
               class="flex-shrink-0 size-4"
               xmlns="http://www.w3.org/2000/svg"
