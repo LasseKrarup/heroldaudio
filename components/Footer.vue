@@ -10,6 +10,7 @@
         >
           Herold Audio
         </NuxtLink>
+        <p class="text-gray-500">Aarhus</p>
         <p class="text-gray-500">CVR: 44706415</p>
         <p class="text-gray-500">lasse@heroldaudio.dk</p>
         <p class="text-gray-500">+45 4162 1410</p>

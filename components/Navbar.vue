@@ -98,7 +98,7 @@
           <NavbarButton
             to="/about"
             :isHome
-            >Om os</NavbarButton
+            >Om Herold Audio</NavbarButton
           >
           <NavbarButton
             to="/priser"
